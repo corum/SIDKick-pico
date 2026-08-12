@@ -64,6 +64,7 @@ You can order the PCBs from PCBWay without or with SMD-parts preassembled:
 You can also find my [other projects](https://www.pcbway.com/project/member/?bmbno=B5CDD8BE-199B-47) there. In case you don't have an account at PCBWay yet: [register via this link](https://pcbway.com/g/x1UjP0) and get "$5 of New User Free Credit".
 
 Even simpler, you can obtain pre-assembled SKpicos from
+- [Retro Buddys](https://www.retrobuddys.com/shop/c64/sidkick-pico-2350-von-frenetic-fuer-den-c64-c64u-und-c128/) (DE/EU)
 - [Retro8BITshop](https://retro8bitshop.com) (NL/EU)
 - [AmericanRetro.shop](https://americanretro.shop) (US)
 - [Plan-Net CSS](https://plannetcss.com) (CA)
